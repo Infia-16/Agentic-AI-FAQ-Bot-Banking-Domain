@@ -1,8 +1,4 @@
-Sure! Here's a complete `README.md` for your **Agentic AI FAQ Bot in Banking Domain** GitHub repository:
 
----
-
-````markdown
 # 💬 Agentic AI FAQ Bot for Banking Domain
 
 An intelligent banking assistant built using Agentic AI principles, designed to answer user queries across 9 banking scenarios via natural, multi-turn conversations. This chatbot is strictly limited to English and banking-related queries, ensuring domain safety and relevance. Powered by [Ollama](https://ollama.com) with the lightweight Qwen 0.5B model and deployed via Streamlit.
@@ -79,19 +75,7 @@ streamlit run unified_chatbot.py
 
 ---
 
-## 📂 Project Structure
 
-```
-agentic-ai-banking-faq-bot/
-│
-├── unified_chatbot.py         # Main Streamlit UI (View + Controller)
-├── qwen_scenario_chatbot.py   # Logic for agentic scenario prompts (Model)
-├── pdf_assistant.py           # Document QA module (optional)
-├── requirements.txt
-└── README.md
-```
-
----
 
 ## ⚠️ Constraints
 
@@ -102,10 +86,9 @@ agentic-ai-banking-faq-bot/
 ---
 
 ## 📸 Screenshots
+<img width="959" height="877" alt="Screenshot 2025-07-29 092959" src="https://github.com/user-attachments/assets/f0033ae7-e39b-42c5-b083-74b191d1e335" />
 
-> *(Add screenshots of your app interface here if available)*
 
----
 
 ## 📝 License
 
@@ -121,11 +104,4 @@ MIT License. See `LICENSE` for more information.
 
 ---
 
-```
-
-Let me know if you’d like:
-- A badge-rich header (like Python version, License, Stars).
-- Screenshots section customized.
-- Markdown file download.
-```
 
